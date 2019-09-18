@@ -54,7 +54,8 @@ public class StepDefinition extends Base {
     public void verify_that_navigation_bar_is_displayed() throws Throwable {
 		LandingPage l = new LandingPage(driver);
 		AssertJUnit.assertTrue(l.getNavigation().isDisplayed());
-		System.out.println("Navigatio is displayed");
+		System.out.println("Navigation is displayed");
+		System.out.println("GIT check");
     }
 	
 	@Then("^Verify that page title is displayed$")
@@ -62,6 +63,8 @@ public class StepDefinition extends Base {
 		LandingPage l = new LandingPage(driver);
 		Assert.assertEquals(l.getTittle().getText(), "FEATURED COURSES");
 		System.out.println("Page title is displayed");
+		System.out.println("GIT check2");
+		System.out.println("GIT check3");
 
     }
 	
