@@ -1,0 +1,30 @@
+16:40:37.007 [main] INFO  resources.Base - Successfully validated Title text
+16:40:37.023 [main] ERROR resources.Base - Unable to validate text
+17:47:19.110 [main] INFO  resources.Base - Driver is inititalized
+17:47:25.679 [main] INFO  resources.Base - Navigated to Home Page
+17:47:32.303 [main] INFO  resources.Base - Restricted user
+17:47:35.332 [main] INFO  resources.Base - Driver is inititalized
+17:47:43.033 [main] INFO  resources.Base - Navigated to Home Page
+17:47:48.203 [main] INFO  resources.Base - Non restricted user
+17:47:51.254 [main] INFO  resources.Base - Driver is inititalized
+17:47:58.441 [main] INFO  resources.Base - Navigated to the Home page (Navigation)
+17:47:58.644 [main] INFO  resources.Base - Successfully validated Navigation bar
+17:48:00.726 [main] INFO  resources.Base - Driver is inititalized (Title)
+17:48:08.796 [main] INFO  resources.Base - Navigated to Home Page
+18:02:36.664 [main] INFO  resources.Base - Driver is inititalized
+18:02:44.051 [main] INFO  resources.Base - Navigated to Home Page
+18:02:50.195 [main] INFO  resources.Base - Restricted user
+18:02:53.172 [main] INFO  resources.Base - Driver is inititalized
+18:03:01.200 [main] INFO  resources.Base - Navigated to Home Page
+18:03:07.292 [main] INFO  resources.Base - Non restricted user
+18:03:10.344 [main] INFO  resources.Base - Driver is inititalized
+18:03:17.151 [main] INFO  resources.Base - Navigated to the Home page (Navigation)
+18:03:17.284 [main] INFO  resources.Base - Successfully validated Navigation bar
+18:03:19.423 [main] INFO  resources.Base - Driver is inititalized (Title)
+18:03:26.286 [main] INFO  resources.Base - Navigated to Home Page
+21:02:20.230 [main] INFO  resources.Base - Driver is inititalized
+21:02:28.090 [main] INFO  resources.Base - Navigated to Home Page
+21:02:36.152 [main] INFO  resources.Base - Restricted user
+21:02:39.386 [main] INFO  resources.Base - Driver is inititalized
+21:02:49.443 [main] INFO  resources.Base - Navigated to Home Page
+21:02:56.087 [main] INFO  resources.Base - Non restricted user

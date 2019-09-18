@@ -1,0 +1,29 @@
+21:02:59.388 [main] INFO  resources.Base - Driver is inititalized
+21:03:08.407 [main] INFO  resources.Base - Navigated to the Home page (Navigation)
+21:03:08.546 [main] INFO  resources.Base - Successfully validated Navigation bar
+21:03:10.593 [main] INFO  resources.Base - Driver is inititalized (Title)
+21:03:19.463 [main] INFO  resources.Base - Navigated to Home Page
+21:10:32.043 [main] INFO  resources.Base - Driver is inititalized
+21:10:43.751 [main] INFO  resources.Base - Navigated to Home Page
+21:10:52.930 [main] INFO  resources.Base - Restricted user
+21:10:56.336 [main] INFO  resources.Base - Driver is inititalized
+21:11:06.641 [main] INFO  resources.Base - Navigated to Home Page
+21:11:15.528 [main] INFO  resources.Base - Non restricted user
+21:11:18.416 [main] INFO  resources.Base - Driver is inititalized
+21:11:27.414 [main] INFO  resources.Base - Navigated to the Home page (Navigation)
+21:11:27.529 [main] INFO  resources.Base - Successfully validated Navigation bar
+21:11:29.560 [main] INFO  resources.Base - Driver is inititalized (Title)
+21:11:37.603 [main] INFO  resources.Base - Navigated to Home Page
+22:13:22.114 [main] INFO  resources.Base - Driver is inititalized
+22:13:30.566 [main] INFO  resources.Base - Navigated to Home Page
+22:13:37.268 [main] INFO  resources.Base - Restricted user
+22:13:40.449 [main] INFO  resources.Base - Driver is inititalized
+22:13:48.662 [main] INFO  resources.Base - Navigated to Home Page
+22:13:56.169 [main] INFO  resources.Base - Non restricted user
+22:14:00.190 [main] INFO  resources.Base - Driver is inititalized
+22:14:07.881 [main] INFO  resources.Base - Navigated to the Home page (Navigation)
+22:14:08.016 [main] INFO  resources.Base - Successfully validated Navigation bar
+22:14:10.097 [main] INFO  resources.Base - Driver is inititalized (Title)
+22:14:17.952 [main] INFO  resources.Base - Navigated to Home Page
+22:14:18.011 [main] INFO  resources.Base - Successfully validated Title text
+22:14:18.011 [main] ERROR resources.Base - Unable to validate text

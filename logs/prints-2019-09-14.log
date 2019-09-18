@@ -1,0 +1,29 @@
+19:06:20.225 [main] INFO  resources.Base - Navigated to the Home page (Navigation)
+19:06:20.433 [main] INFO  resources.Base - Successfully validated Navigation bar
+19:06:22.614 [main] INFO  resources.Base - Driver is inititalized (Title)
+19:06:31.160 [main] INFO  resources.Base - Navigated to Home Page
+19:06:31.876 [main] INFO  resources.Base - Successfully validated Title text
+19:06:31.876 [main] ERROR resources.Base - Unable to validate text
+19:17:57.395 [main] INFO  resources.Base - Driver is inititalized
+19:18:04.455 [main] INFO  resources.Base - Navigated to Home Page
+19:18:10.983 [main] INFO  resources.Base - Restricted user
+19:18:14.250 [main] INFO  resources.Base - Driver is inititalized
+19:18:21.878 [main] INFO  resources.Base - Navigated to Home Page
+19:18:27.990 [main] INFO  resources.Base - Non restricted user
+19:18:31.077 [main] INFO  resources.Base - Driver is inititalized
+19:18:38.853 [main] INFO  resources.Base - Navigated to the Home page (Navigation)
+19:18:38.973 [main] INFO  resources.Base - Successfully validated Navigation bar
+19:18:40.868 [main] INFO  resources.Base - Driver is inititalized (Title)
+19:18:48.971 [main] INFO  resources.Base - Navigated to Home Page
+19:18:49.656 [main] INFO  resources.Base - Successfully validated Title text
+19:18:49.656 [main] ERROR resources.Base - Unable to validate text
+19:20:50.102 [main] INFO  resources.Base - Driver is inititalized
+19:21:02.691 [main] INFO  resources.Base - Navigated to Home Page
+19:21:06.304 [main] INFO  resources.Base - Restricted user
+19:21:09.182 [main] INFO  resources.Base - Driver is inititalized
+19:21:16.555 [main] INFO  resources.Base - Navigated to Home Page
+19:21:22.833 [main] INFO  resources.Base - Non restricted user
+19:21:26.233 [main] INFO  resources.Base - Driver is inititalized
+19:21:34.256 [main] INFO  resources.Base - Navigated to the Home page (Navigation)
+19:21:34.367 [main] INFO  resources.Base - Successfully validated Navigation bar
+19:21:36.190 [main] INFO  resources.Base - Driver is inititalized (Title)

@@ -1,0 +1,19 @@
+19:21:44.636 [main] INFO  resources.Base - Navigated to Home Page
+19:21:45.399 [main] INFO  resources.Base - Successfully validated Title text
+19:21:45.399 [main] ERROR resources.Base - Unable to validate text
+19:25:46.195 [main] INFO  resources.Base - Driver is inititalized
+19:25:53.312 [main] INFO  resources.Base - Navigated to Home Page
+19:25:59.884 [main] INFO  resources.Base - Restricted user
+19:26:03.189 [main] INFO  resources.Base - Driver is inititalized
+19:26:10.862 [main] INFO  resources.Base - Navigated to Home Page
+19:26:18.916 [main] INFO  resources.Base - Non restricted user
+19:26:22.286 [main] INFO  resources.Base - Driver is inititalized
+19:26:29.449 [main] INFO  resources.Base - Navigated to the Home page (Navigation)
+19:26:29.644 [main] INFO  resources.Base - Successfully validated Navigation bar
+19:26:31.807 [main] INFO  resources.Base - Driver is inititalized (Title)
+19:26:42.977 [main] INFO  resources.Base - Navigated to Home Page
+19:26:43.936 [main] INFO  resources.Base - Successfully validated Title text
+19:26:43.937 [main] ERROR resources.Base - Unable to validate text
+15:57:27.341 [main] INFO  resources.Base - Driver is inititalized
+15:57:34.276 [main] INFO  resources.Base - Navigated to Home Page
+15:57:40.903 [main] INFO  resources.Base - Restricted user
